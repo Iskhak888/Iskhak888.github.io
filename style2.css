@@ -1,0 +1,22 @@
+head {
+    background-color: #333; /* Цвет фона заголовка */
+    color: #fff; /* Цвет текста в заголовке */
+    padding: 20px; /* Внутренний отступ вокруг содержимого заголовка */
+    font-family: Arial, sans-serif; /* Шрифт текста в заголовке */
+}
+body {
+    background-image: url("https://images5.alphacoders.com/113/thumb-1920-1130532.jpg");
+    background-size: cover; /* растягивает изображение, чтобы заполнить всю область фона */
+    background-repeat: no-repeat; /* предотвращает повторение изображения */
+}
+p{
+    background-color: #ffffff5d;
+}
+h1{
+    
+    background-color: #ffffff8d;
+}
+li{
+    
+    background-color: #ffffff8d;
+}

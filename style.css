@@ -1,0 +1,22 @@
+head {
+    background-color: #333; /* Цвет фона заголовка */
+    color: #fff; /* Цвет текста в заголовке */
+    padding: 20px; /* Внутренний отступ вокруг содержимого заголовка */
+    font-family: Arial, sans-serif; /* Шрифт текста в заголовке */
+}
+body {
+    background-image: url("https://avatars.mds.yandex.net/i?id=01228a794715c614b11da9cb70dbb48c690c0e9c-10375362-images-thumbs&n=13");
+    background-size: cover; /* растягивает изображение, чтобы заполнить всю область фона */
+    background-repeat: no-repeat; /* предотвращает повторение изображения */
+}
+p{
+    background-color: #ffffff5d;
+}
+h1{
+    
+    background-color: #ffffff8d;
+}
+li{
+    
+    background-color: #ffffff8d;
+}
