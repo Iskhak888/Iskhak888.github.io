@@ -1,0 +1,5 @@
+body {
+    background-image: url("C:\Users\iskha\Downloads\spiderman-4k-2019-fr-2560x1440.jpg");
+    background-size: cover; /* растягивает изображение, чтобы заполнить всю область фона */
+    background-repeat: no-repeat; /* предотвращает повторение изображения */
+}
